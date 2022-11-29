@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning bsc cs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me --> @fasalmuhammed387@gmail.com
 
 <!---
 fasalmuhammed/fasalmuhammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
