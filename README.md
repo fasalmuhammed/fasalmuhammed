@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fasalmuhammed
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning bsc cs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MCA at Pondicherry Cerntal University
+- 💞️ I’m looking to collaborate on Internships
 - 📫 How to reach me --> @fasalmuhammed387@gmail.com
 
 <!---
