@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @fasalmuhammed
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning MCA at Pondicherry Cerntal University
-- 💞️ I’m looking to collaborate on Internships
-- 📫 How to reach me --> @fasalmuhammed387@gmail.com
+👋 Hi, I'm Fasal Muhammed
 
-<!---
-fasalmuhammed/fasalmuhammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-Stack Developer | React • Next.js • Django  
+🎓 MCA @ Pondicherry Central University  
+🚀 Building, learning & experimenting with web technologies  
+🤝 Open to internships & collaborations  
+📫 fasalmuhammed387@gmail.com
+
+✨ Code. Create. Repeat.
